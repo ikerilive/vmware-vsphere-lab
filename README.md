@@ -67,3 +67,7 @@ This is not a theoretical project — every step was implemented, tested, and va
 - Enabled SSH & ESXi Shell
 
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/01-esxi-installation/Screenshot%202025-12-22%20130558.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/01-esxi-installation/Screenshot%202025-12-22%20130812.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/01-esxi-installation/Screenshot%202025-12-22%20130849.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/01-esxi-installation/Screenshot%202025-12-22%20130928.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/01-esxi-installation/Screenshot%202025-12-22%20130940.png)
