@@ -71,3 +71,34 @@ This is not a theoretical project — every step was implemented, tested, and va
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/01-esxi-installation/Screenshot%202025-12-22%20130849.png)
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/01-esxi-installation/Screenshot%202025-12-22%20130928.png)
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/01-esxi-installation/Screenshot%202025-12-22%20130940.png)
+
+
+
+
+## 2️⃣ Virtual Machine Creation & Management
+
+### Tasks Performed
+- Created Linux and Windows virtual machines
+- Installed guest operating systems
+- Installed VMware Tools
+- Modified VM resources (CPU/RAM)
+- Took and reverted snapshots
+
+
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/02-vm-management/Screenshot%202025-12-22%20132415.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/02-vm-management/Screenshot%202025-12-22%20132432.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/02-vm-management/Screenshot%202025-12-22%20132450.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/02-vm-management/Screenshot%202025-12-22%20132534.png)
+
+
+## 3️⃣ vCenter Server Appliance (VCSA) Deployment
+
+### Tasks Performed
+- Deployed VCSA using OVA installer
+- Configured:
+  - FQDN
+  - Static IP
+  - DNS
+  - NTP
+- Verified vCenter services
+- Accessed vSphere Client (HTML5)
