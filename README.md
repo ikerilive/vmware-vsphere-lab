@@ -121,7 +121,8 @@ This is not a theoretical project; every step was implemented, tested, and valid
 
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/04-datacenter-hosts/Screenshot%202025-12-22%20134109.png)
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/04-datacenter-hosts/Screenshot%202025-12-22%20134123.png)
-![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/04-datacenter-hosts/Screenshot%202025-12-22%20134123.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/04-datacenter-hosts/Screenshot%202025-12-22%20134209.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/04-datacenter-hosts/Screenshot%202025-12-22%20135058.png)
 
 
 
