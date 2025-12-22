@@ -106,3 +106,80 @@ This is not a theoretical project; every step was implemented, tested, and valid
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/03-vcenter-installation/Screenshot%202025-12-22%20133343.png)
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/03-vcenter-installation/Screenshot%202025-12-22%20133424.png)
 ![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/03-vcenter-installation/Screenshot%202025-12-22%20133642.png)
+
+
+
+## 4️⃣ Datacenter & Host Management
+
+### Tasks Performed
+- Created Datacenter object
+- Added multiple ESXi hosts
+- Managed hosts via vCenter
+- Assigned licenses
+- Verified cluster readiness
+
+
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/04-datacenter-hosts/Screenshot%202025-12-22%20134109.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/04-datacenter-hosts/Screenshot%202025-12-22%20134123.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/04-datacenter-hosts/Screenshot%202025-12-22%20134123.png)
+
+
+
+## 5️⃣ vMotion Configuration
+
+### Tasks Performed
+- Configured VMkernel adapters for vMotion
+- Tested live migration of VMs between hosts
+- Verified zero-downtime migration
+
+
+## 6️⃣ High Availability (HA)
+
+### Tasks Performed
+- Created shared NFS datastore
+- Configured HA cluster
+- Simulated host failure
+- Verified VM automatic restart
+
+## 7️⃣ Distributed Resource Scheduler (DRS)
+
+### Tasks Performed
+- Enabled DRS
+- Configured automation level
+- Observed workload balancing
+- Verified VM migration recommendations
+
+
+## 8️⃣ VM Lifecycle Operations
+
+### Tasks Performed
+- VM cloning
+- Template creation
+- OVF export and import
+- Folder organization
+- Resource pool management
+
+
+## 9️⃣ Troubleshooting & CLI
+
+### Tasks Performed
+- Used ESXi CLI commands
+- Investigated storage issues
+- Network troubleshooting
+- Reviewed logs for deployment errors
+
+
+
+## Key Skills Demonstrated
+
+- Enterprise vSphere architecture
+- ESXi installation & administration
+- vCenter deployment & management
+- HA & DRS configuration
+- vMotion & shared storage
+- VM lifecycle management
+- Real-world troubleshooting
+
+## Outcome
+
+This project demonstrates hands-on experience equivalent to a **junior VMware / Virtualization Administrator role** and reflects real operational workflows used in production environments.
