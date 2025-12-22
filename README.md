@@ -4,7 +4,7 @@
 This repository documents my hands-on experience building and administering a complete **VMware vSphere lab environment**.  
 The goal of this project was to gain real-world skills in **ESXi, vCenter Server Appliance (VCSA), VM lifecycle management, HA, DRS, and troubleshooting**, aligned with enterprise VMware environments.
 
-This is not a theoretical project — every step was implemented, tested, and validated in a working lab.
+This is not a theoretical project; every step was implemented, tested, and validated in a working lab.
 
 ---
 
@@ -102,3 +102,7 @@ This is not a theoretical project — every step was implemented, tested, and va
   - NTP
 - Verified vCenter services
 - Accessed vSphere Client (HTML5)
+
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/03-vcenter-installation/Screenshot%202025-12-22%20133343.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/03-vcenter-installation/Screenshot%202025-12-22%20133424.png)
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/03-vcenter-installation/Screenshot%202025-12-22%20133642.png)
