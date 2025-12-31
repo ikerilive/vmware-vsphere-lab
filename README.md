@@ -142,6 +142,7 @@ This is not a theoretical project; every step was implemented, tested, and valid
 - Simulated host failure
 - Verified VM automatic restart
 
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/06-ha-07-drs/Screenshot%202025-12-31%20211722.png)
 ## 7️⃣ Distributed Resource Scheduler (DRS)
 
 ### Tasks Performed
@@ -149,7 +150,7 @@ This is not a theoretical project; every step was implemented, tested, and valid
 - Configured automation level
 - Observed workload balancing
 - Verified VM migration recommendations
-
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/06-ha-07-drs/Screenshot%202025-12-31%20212439.png)
 
 ## 8️⃣ VM Lifecycle Operations
 
