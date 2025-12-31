@@ -132,7 +132,7 @@ This is not a theoretical project; every step was implemented, tested, and valid
 - Configured VMkernel adapters for vMotion
 - Tested live migration of VMs between hosts
 - Verified zero-downtime migration
-
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/05-vmotion/Screenshot%202025-12-31%20210915.png)
 
 ## 6️⃣ High Availability (HA)
 
