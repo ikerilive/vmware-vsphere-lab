@@ -1,5 +1,5 @@
 # VMware vSphere Hands-On Lab (ESXi & vCenter)
-
+### All screenshots were taken from my own lab environment running ESXi + vCenter.
 ## Overview
 This repository documents my hands-on experience building and administering a complete **VMware vSphere lab environment**.  
 The goal of this project was to gain real-world skills in **ESXi, vCenter Server Appliance (VCSA), VM lifecycle management, HA, DRS, and troubleshooting**, aligned with enterprise VMware environments.
@@ -169,7 +169,7 @@ This is not a theoretical project; every step was implemented, tested, and valid
 - Investigated storage issues
 - Network troubleshooting
 - Reviewed logs for deployment errors
-
+![Lab Architecture](https://github.com/ikerilive/vmware-vsphere-lab/blob/main/09-troubleshooting/Screenshot%202025-12-31%20212949.png)
 
 
 ## Key Skills Demonstrated
